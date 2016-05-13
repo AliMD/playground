@@ -1,2 +1,1 @@
-#newfile
-hello
+# Hello ;)
